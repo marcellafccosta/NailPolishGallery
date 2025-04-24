@@ -7,7 +7,7 @@ Este projeto é uma aplicação mobile desenvolvida com SwiftUI, onde o usuário
 
 ## 📸 Demonstração
 <p align="center">
-  <img src="media/demo.gif" width="400"/>
+  <img src="mobile/media/demo.gif" width="400"/>
 </p>
 
 ---
